@@ -4,11 +4,17 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devworlds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Contatos:
+### Contatos/Contact:
 
 <div>
 <a href="https://instagram.com/maisumjefferson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/2ink" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:jeffluizblockchain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jefferson-luiz-72601a131" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+  
+ ### Aprendendo/Learning:
+  
+  <i class="devicon-solidity-plain"></i>
+  <i class="devicon-nodejs-plain"></i>
+  <i class="devicon-mocha-plain"></i>
+  <i class="devicon-git-plain-wordmark"></i>

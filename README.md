@@ -15,9 +15,14 @@
 <a href="https://www.linkedin.com/in/jefferson-luiz-72601a131" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
- ### Aprendendo/Learning:
+ ### Desenvolvendo/Development:
   
-  <i class="devicon-solidity-plain"></i>
-  <i class="devicon-nodejs-plain"></i>
-  <i class="devicon-mocha-plain"></i>
-  <i class="devicon-git-plain-wordmark"></i>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="80" height="80"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80"/>
+          
+          
+ 
+          
+ 

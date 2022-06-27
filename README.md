@@ -1,4 +1,4 @@
-<h2 align="center">Bem Vindo ao meu GitHub me chamo Jefferson Luiz e sou apaixonado por tecnologia, animes, jogos e programação blockchain.</h2>
+<h2 align="center">Bem Vindo ao meu GitHub me chamo Jefferson Luiz e sou apaixonado por tecnologia, animes, jogos e blockchain.</h2>
 
 ###
 <div align="center">
